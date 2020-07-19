@@ -87,6 +87,12 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
+ol {
+  list-style-type: lower-alpha;
+  list-style-position: inside;
+}
+
+
 a {
   color:#39c;
   text-decoration:none;
