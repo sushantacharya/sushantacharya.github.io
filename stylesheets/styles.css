@@ -92,6 +92,10 @@ ol {
   list-style-position: inside;
 }
 
+ol li {
+  display:block;
+}
+
 
 a {
   color:#39c;
