@@ -87,10 +87,10 @@ h3, h4, h5, h6 {
   color:#494949;
 }
 
-ol {
+/* ol {
   list-style-type: decimal;
   list-style-position: inside;
-}
+} */
 
 /* ol li {
   margin: 3px 12px 3px 12px;
