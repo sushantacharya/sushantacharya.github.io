@@ -93,9 +93,9 @@ ol {
 }
 
 ol li {
-/*   padding: 0px;
-  margin-left: 5px; */
-/*   display:block; */
+  margin: 3px 12px 3px 12px;
+  width: 200px;
+  float:left;
 }
 
 
