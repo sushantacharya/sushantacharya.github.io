@@ -92,11 +92,11 @@ ol {
   list-style-position: inside;
 }
 
-ol li {
+/* ol li {
   margin: 3px 12px 3px 12px;
   width: 200px;
   float:left;
-}
+} */
 
 
 a {
