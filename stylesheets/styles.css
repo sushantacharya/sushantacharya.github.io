@@ -93,7 +93,9 @@ ol {
 }
 
 ol li {
-  display:block;
+  padding: 5px;
+  margin-left: 35px;
+/*   display:block; */
 }
 
 
